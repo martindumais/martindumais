@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @martindumais
+- 👀 I’m interested in ECM and development.
+- 🌱 I’m currently learning Jav, Javascript and Angular.
+- 💞️ I’m looking to collaborate on Alfresco.
+- 📫 Thank you!
